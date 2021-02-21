@@ -9,7 +9,7 @@
 }
 
 /* Change the color of all .rem-bullet(s) inside rem-bullet__container if practice is enabled */
-/* This doesn't cover cloze cards or image occlussion cards*/
+/* This doesn't cover cloze cards or image occlusion cards*/
 .rem-container--backwards-practice-enabled  .rem-bullet__container .rem-bullet , 
 .rem-container--forwards-practice-enabled .rem-bullet__container .rem-bullet {
     background-color: var(--font-practice-enabled-indicator-c);
